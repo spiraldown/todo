@@ -1,24 +1,34 @@
-# README
+# **ToDoester**
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Full Stack App to create a todo list as well as to mark when the task is complete. 
 
-Things you may want to cover:
+### You can visit [ToDoster Here](https://todoster-matt-munos.herokuapp.com/)
 
-* Ruby version
+### Index
+Index to see your list of tasks todo.
+![ToDoster Index](https://github.com/spiraldown/todo/blob/master/todoIndex.jpg)
 
-* System dependencies
+### Add to List
+Adding tasks to the list to be completed.
+![ToDoster Add to List](https://github.com/spiraldown/todo/blob/master/todoAdd.jpg)
 
-* Configuration
+### Compolete Task
+Once a task is completed, it can be checked off. 
+![ToDoster Complete Task](https://github.com/spiraldown/todo/blob/master/todoCompleteTask.jpg)
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+### **Tools Used**
 
-* Deployment instructions
+* **Ruby on Rails**
+  * 2.5.3
+    
+* **Database**
+  * Postgresql
 
-* ...
+* **JavaScript
+  * Ajax
+  * Dom
+  
+* **JSON
